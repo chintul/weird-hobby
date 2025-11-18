@@ -1398,5 +1398,705 @@
     "emoji": "🧶",
     "shortDesc": "Craft the most hideous holiday sweaters imaginable. The gaudier, the better!",
     "affiliateLink": "https://www.amazon.com/s?k=ugly+sweater+kit"
+  },
+  {
+    "id": 201,
+    "name": "Nail Art Sculpture 3D",
+    "emoji": "💅",
+    "shortDesc": "Build elaborate 3D sculptures on fingernails using acrylic. Tiny art galleries on your hands!",
+    "affiliateLink": "https://www.amazon.com/s?k=3d+nail+art"
+  },
+  {
+    "id": 202,
+    "name": "Extreme Couponing Strategy",
+    "emoji": "✂️",
+    "shortDesc": "Stack coupons and deals to get groceries for pennies. Mathematical wizardry meets frugality!",
+    "affiliateLink": "https://www.amazon.com/s?k=coupon+binder"
+  },
+  {
+    "id": 203,
+    "name": "Medieval Calligraphy Illumination",
+    "emoji": "📜",
+    "shortDesc": "Add gold leaf and illustrations to handwritten manuscripts. Become a modern-day monk!",
+    "affiliateLink": "https://www.amazon.com/s?k=gold+leaf+calligraphy"
+  },
+  {
+    "id": 204,
+    "name": "Snail Racing Championships",
+    "emoji": "🐌",
+    "shortDesc": "Race snails on specially designed tracks. The slowest sport in the world!",
+    "affiliateLink": "https://www.amazon.com/s?k=pet+snails"
+  },
+  {
+    "id": 205,
+    "name": "Tin Whistle Irish Music",
+    "emoji": "🎶",
+    "shortDesc": "Play traditional Celtic melodies on this simple yet beautiful wind instrument!",
+    "affiliateLink": "https://www.amazon.com/s?k=tin+whistle"
+  },
+  {
+    "id": 206,
+    "name": "Geocoin Collecting Tracking",
+    "emoji": "🪙",
+    "shortDesc": "Collect and track special coins that travel the world through geocaching networks!",
+    "affiliateLink": "https://www.amazon.com/s?k=geocoin"
+  },
+  {
+    "id": 207,
+    "name": "Slingshot Marksmanship",
+    "emoji": "🎯",
+    "shortDesc": "Master the ancient weapon with modern accuracy. David vs Goliath skills!",
+    "affiliateLink": "https://www.amazon.com/s?k=slingshot"
+  },
+  {
+    "id": 208,
+    "name": "Soap Box Derby Engineering",
+    "emoji": "📦",
+    "shortDesc": "Build aerodynamic gravity-powered vehicles and race them downhill!",
+    "affiliateLink": "https://www.amazon.com/s?k=soap+box+car"
+  },
+  {
+    "id": 209,
+    "name": "Penny Whistle Busking",
+    "emoji": "🎵",
+    "shortDesc": "Play folk tunes on street corners for spare change. Portable income!",
+    "affiliateLink": "https://www.amazon.com/s?k=penny+whistle"
+  },
+  {
+    "id": 210,
+    "name": "Rubber Band Ball Building",
+    "emoji": "⚽",
+    "shortDesc": "Create massive spheres from thousands of rubber bands. Bouncy art projects!",
+    "affiliateLink": "https://www.amazon.com/s?k=rubber+bands"
+  },
+  {
+    "id": 211,
+    "name": "Air Guitar Championships",
+    "emoji": "🎸",
+    "shortDesc": "Perform rock solos on invisible instruments. All the glory, none of the strings!",
+    "affiliateLink": "https://www.amazon.com/s?k=air+guitar"
+  },
+  {
+    "id": 212,
+    "name": "Tide Pool Marine Biology",
+    "emoji": "🦀",
+    "shortDesc": "Explore rocky shores and catalog sea creatures trapped by low tide!",
+    "affiliateLink": "https://www.amazon.com/s?k=tide+pool+guide"
+  },
+  {
+    "id": 213,
+    "name": "Potato Gun Engineering",
+    "emoji": "🥔",
+    "shortDesc": "Build PVC cannons that launch vegetables using air pressure or combustion!",
+    "affiliateLink": "https://www.amazon.com/s?k=potato+gun"
+  },
+  {
+    "id": 214,
+    "name": "Extreme Unicycling Trials",
+    "emoji": "🚲",
+    "shortDesc": "Ride one-wheeled bikes over impossible obstacles. Balance on expert mode!",
+    "affiliateLink": "https://www.amazon.com/s?k=trials+unicycle"
+  },
+  {
+    "id": 215,
+    "name": "Milk Cap Pog Collection",
+    "emoji": "🥛",
+    "shortDesc": "Collect and play with '90s cardboard discs. Nostalgia in circular form!",
+    "affiliateLink": "https://www.amazon.com/s?k=pog+collection"
+  },
+  {
+    "id": 216,
+    "name": "Kite Fighting Competition",
+    "emoji": "🪁",
+    "shortDesc": "Cut opponents' kite strings with glass-coated lines in aerial battles!",
+    "affiliateLink": "https://www.amazon.com/s?k=fighter+kite"
+  },
+  {
+    "id": 217,
+    "name": "Sandpainting Tibetan Art",
+    "emoji": "🎨",
+    "shortDesc": "Create intricate mandalas from colored sand, then ceremonially destroy them!",
+    "affiliateLink": "https://www.amazon.com/s?k=sand+mandala"
+  },
+  {
+    "id": 218,
+    "name": "Hovercraft Building Amateur",
+    "emoji": "🚁",
+    "shortDesc": "Construct vehicles that float on cushions of air. Backyard aerospace engineering!",
+    "affiliateLink": "https://www.amazon.com/s?k=hovercraft+kit"
+  },
+  {
+    "id": 219,
+    "name": "Historical Button Collecting",
+    "emoji": "🔘",
+    "shortDesc": "Amass rare buttons from different eras and countries. Tiny historical artifacts!",
+    "affiliateLink": "https://www.amazon.com/s?k=antique+buttons"
+  },
+  {
+    "id": 220,
+    "name": "Stone Skipping Physics",
+    "emoji": "🪨",
+    "shortDesc": "Study the perfect angle and spin to maximize water skips. Science meets lakeside fun!",
+    "affiliateLink": "https://www.amazon.com/s?k=flat+stones"
+  },
+  {
+    "id": 221,
+    "name": "Matchbox Car Collecting",
+    "emoji": "🚗",
+    "shortDesc": "Build a collection of die-cast miniature vehicles. Tiny cars, big investment potential!",
+    "affiliateLink": "https://www.amazon.com/s?k=matchbox+cars"
+  },
+  {
+    "id": 222,
+    "name": "Whittling Wood Carving",
+    "emoji": "🔪",
+    "shortDesc": "Carve small objects from wood using just a pocket knife. Meditative and portable!",
+    "affiliateLink": "https://www.amazon.com/s?k=whittling+knife"
+  },
+  {
+    "id": 223,
+    "name": "Soda Can Tab Chains",
+    "emoji": "🥤",
+    "shortDesc": "Link thousands of pull tabs into belts, bags, and art. Recycling meets fashion!",
+    "affiliateLink": "https://www.amazon.com/s?k=can+tabs"
+  },
+  {
+    "id": 224,
+    "name": "Trebuchet Medieval Building",
+    "emoji": "🏰",
+    "shortDesc": "Construct siege weapons that fling objects using counterweights. Physics in action!",
+    "affiliateLink": "https://www.amazon.com/s?k=trebuchet+kit"
+  },
+  {
+    "id": 225,
+    "name": "Microscope Slide Art",
+    "emoji": "🔬",
+    "shortDesc": "Arrange microscopic objects into beautiful compositions. Art invisible to naked eyes!",
+    "affiliateLink": "https://www.amazon.com/s?k=microscope+slides"
+  },
+  {
+    "id": 226,
+    "name": "Paracord Bracelet Weaving",
+    "emoji": "🪢",
+    "shortDesc": "Braid survival cord into wearable accessories. Fashion that could save your life!",
+    "affiliateLink": "https://www.amazon.com/s?k=paracord"
+  },
+  {
+    "id": 227,
+    "name": "Vinegar Making Fermentation",
+    "emoji": "🍶",
+    "shortDesc": "Transform wine and cider into artisan vinegars through controlled bacterial fermentation!",
+    "affiliateLink": "https://www.amazon.com/s?k=vinegar+mother"
+  },
+  {
+    "id": 228,
+    "name": "Hula Hoop Making Custom",
+    "emoji": "⭕",
+    "shortDesc": "Build weighted hoops in custom sizes and decorations. Personalized flow tools!",
+    "affiliateLink": "https://www.amazon.com/s?k=hoop+making+supplies"
+  },
+  {
+    "id": 229,
+    "name": "Metal Detecting Treasure",
+    "emoji": "💰",
+    "shortDesc": "Scan beaches and fields for buried coins and lost jewelry. Modern treasure hunting!",
+    "affiliateLink": "https://www.amazon.com/s?k=metal+detector"
+  },
+  {
+    "id": 230,
+    "name": "Bottlecap Art Portraits",
+    "emoji": "🎨",
+    "shortDesc": "Arrange colorful caps into pixel-art style pictures. Recycled pop art!",
+    "affiliateLink": "https://www.amazon.com/s?k=bottle+caps+bulk"
+  },
+  {
+    "id": 231,
+    "name": "Radio Controlled Boats",
+    "emoji": "⛵",
+    "shortDesc": "Race miniature ships across ponds and lakes. Nautical engineering at scale!",
+    "affiliateLink": "https://www.amazon.com/s?k=rc+boat"
+  },
+  {
+    "id": 232,
+    "name": "Kumihimo Braiding Japanese",
+    "emoji": "🧵",
+    "shortDesc": "Weave intricate cords using traditional Japanese disk braiding techniques!",
+    "affiliateLink": "https://www.amazon.com/s?k=kumihimo+disk"
+  },
+  {
+    "id": 233,
+    "name": "Spore Print Collection",
+    "emoji": "🍄",
+    "shortDesc": "Capture mushroom spore patterns on paper. Natural art and identification tool!",
+    "affiliateLink": "https://www.amazon.com/s?k=mushroom+spores"
+  },
+  {
+    "id": 234,
+    "name": "Penny Hoarding Copper",
+    "emoji": "🪙",
+    "shortDesc": "Collect pre-1982 pennies for their copper content. Metal arbitrage hobby!",
+    "affiliateLink": "https://www.amazon.com/s?k=coin+sorter"
+  },
+  {
+    "id": 235,
+    "name": "Soap Bubble Art Science",
+    "emoji": "🫧",
+    "shortDesc": "Create giant bubbles and frozen bubble photography. Ephemeral science art!",
+    "affiliateLink": "https://www.amazon.com/s?k=bubble+solution"
+  },
+  {
+    "id": 236,
+    "name": "Pressed Penny Art Display",
+    "emoji": "💰",
+    "shortDesc": "Collect and frame elongated souvenir pennies from tourist attractions worldwide!",
+    "affiliateLink": "https://www.amazon.com/s?k=penny+press+book"
+  },
+  {
+    "id": 237,
+    "name": "Fortune Cookie Writing",
+    "emoji": "🥠",
+    "shortDesc": "Compose cryptic fortunes and bake them into cookies. Edible prophecy creation!",
+    "affiliateLink": "https://www.amazon.com/s?k=fortune+cookie+maker"
+  },
+  {
+    "id": 238,
+    "name": "Sidewalk Chalk Murals",
+    "emoji": "🎨",
+    "shortDesc": "Create massive temporary artworks on pavement. Street art that washes away!",
+    "affiliateLink": "https://www.amazon.com/s?k=sidewalk+chalk"
+  },
+  {
+    "id": 239,
+    "name": "Bamboo Bike Frame Building",
+    "emoji": "🚴",
+    "shortDesc": "Construct functional bicycle frames from bamboo stalks. Sustainable cycling!",
+    "affiliateLink": "https://www.amazon.com/s?k=bamboo+bike+kit"
+  },
+  {
+    "id": 240,
+    "name": "Spirograph Mathematical Art",
+    "emoji": "🌀",
+    "shortDesc": "Draw intricate geometric patterns using plastic gears. Nostalgic mathematical beauty!",
+    "affiliateLink": "https://www.amazon.com/s?k=spirograph"
+  },
+  {
+    "id": 241,
+    "name": "Tin Can Lantern Making",
+    "emoji": "🏮",
+    "shortDesc": "Punch decorative holes in recycled cans to create outdoor lighting. Upcycled illumination!",
+    "affiliateLink": "https://www.amazon.com/s?k=metal+punch+set"
+  },
+  {
+    "id": 242,
+    "name": "Yo-Yo String Trick Videos",
+    "emoji": "🪀",
+    "shortDesc": "Film and share complex yo-yo routines online. Build a following with string skills!",
+    "affiliateLink": "https://www.amazon.com/s?k=professional+yo-yo"
+  },
+  {
+    "id": 243,
+    "name": "Wax Seal Letter Stamping",
+    "emoji": "✉️",
+    "shortDesc": "Seal envelopes with melted wax and personalized stamps. Bring back old-world elegance!",
+    "affiliateLink": "https://www.amazon.com/s?k=wax+seal"
+  },
+  {
+    "id": 244,
+    "name": "Sidewalk Astronomy Outreach",
+    "emoji": "🔭",
+    "shortDesc": "Set up telescopes in public and share celestial views with strangers. Guerrilla stargazing!",
+    "affiliateLink": "https://www.amazon.com/s?k=telescope"
+  },
+  {
+    "id": 245,
+    "name": "Gumball Machine Collecting",
+    "emoji": "🍬",
+    "shortDesc": "Amass vintage coin-operated candy dispensers. Nostalgia that dispenses treats!",
+    "affiliateLink": "https://www.amazon.com/s?k=vintage+gumball+machine"
+  },
+  {
+    "id": 246,
+    "name": "Cactus Grafting Hybridization",
+    "emoji": "🌵",
+    "shortDesc": "Splice different cactus species together to create chimeric plants. Botanical Frankenstein!",
+    "affiliateLink": "https://www.amazon.com/s?k=cactus+grafting"
+  },
+  {
+    "id": 247,
+    "name": "Skateboard Deck Art Custom",
+    "emoji": "🛹",
+    "shortDesc": "Paint and design custom graphics on skateboard decks. Functional canvas art!",
+    "affiliateLink": "https://www.amazon.com/s?k=blank+skateboard+deck"
+  },
+  {
+    "id": 248,
+    "name": "Morse Code Communication",
+    "emoji": "📡",
+    "shortDesc": "Master dots and dashes for radio communication. Vintage digital language!",
+    "affiliateLink": "https://www.amazon.com/s?k=morse+code+key"
+  },
+  {
+    "id": 249,
+    "name": "Lego Mosaic Building",
+    "emoji": "🧱",
+    "shortDesc": "Create pixel art from thousands of colored bricks. Childhood toys meet serious art!",
+    "affiliateLink": "https://www.amazon.com/s?k=lego+bricks+bulk"
+  },
+  {
+    "id": 250,
+    "name": "Cloud Watching Classification",
+    "emoji": "☁️",
+    "shortDesc": "Identify and catalog cloud types according to scientific classifications. Meteorology meditation!",
+    "affiliateLink": "https://www.amazon.com/s?k=cloud+identification"
+  },
+  {
+    "id": 251,
+    "name": "Fountain Pen Ink Mixing",
+    "emoji": "🖊️",
+    "shortDesc": "Blend custom ink colors for fancy writing instruments. Chemistry for pen enthusiasts!",
+    "affiliateLink": "https://www.amazon.com/s?k=fountain+pen+ink"
+  },
+  {
+    "id": 252,
+    "name": "Balloon Twisting Animals",
+    "emoji": "🎈",
+    "shortDesc": "Sculpt elaborate creatures from inflated balloons. Squeaky ephemeral sculptures!",
+    "affiliateLink": "https://www.amazon.com/s?k=balloon+animal+kit"
+  },
+  {
+    "id": 253,
+    "name": "Scratch Art Rainbow Drawing",
+    "emoji": "🌈",
+    "shortDesc": "Scratch away black coating to reveal colorful designs underneath. Reverse coloring!",
+    "affiliateLink": "https://www.amazon.com/s?k=scratch+art+paper"
+  },
+  {
+    "id": 254,
+    "name": "Tape Art Wall Murals",
+    "emoji": "🎨",
+    "shortDesc": "Create geometric art using only masking tape on walls. Removable modern art!",
+    "affiliateLink": "https://www.amazon.com/s?k=masking+tape+art"
+  },
+  {
+    "id": 255,
+    "name": "Slinky Physics Experiments",
+    "emoji": "🌀",
+    "shortDesc": "Study wave motion and gravity using metal spring toys. Science through play!",
+    "affiliateLink": "https://www.amazon.com/s?k=metal+slinky"
+  },
+  {
+    "id": 256,
+    "name": "Morse Code Jewelry Making",
+    "emoji": "📿",
+    "shortDesc": "Encode secret messages in bead patterns. Wearable encrypted communication!",
+    "affiliateLink": "https://www.amazon.com/s?k=morse+code+bracelet"
+  },
+  {
+    "id": 257,
+    "name": "Egg Shell Mosaic Art",
+    "emoji": "🥚",
+    "shortDesc": "Break dyed shells into pieces and create intricate mosaics. Delicate recycled art!",
+    "affiliateLink": "https://www.amazon.com/s?k=egg+dye"
+  },
+  {
+    "id": 258,
+    "name": "Chopstick Wrapper Origami",
+    "emoji": "🥢",
+    "shortDesc": "Fold restaurant paper into tiny cranes and art. Dining entertainment!",
+    "affiliateLink": "https://www.amazon.com/s?k=origami+instructions"
+  },
+  {
+    "id": 259,
+    "name": "Library Bookplate Collecting",
+    "emoji": "📚",
+    "shortDesc": "Collect decorative ownership labels from old books. Tiny vintage art prints!",
+    "affiliateLink": "https://www.amazon.com/s?k=bookplates"
+  },
+  {
+    "id": 260,
+    "name": "Shadow Puppetry Theater",
+    "emoji": "🐕",
+    "shortDesc": "Create stories using hand shapes and light. Ancient entertainment art!",
+    "affiliateLink": "https://www.amazon.com/s?k=shadow+puppet"
+  },
+  {
+    "id": 261,
+    "name": "Popsicle Stick Architecture",
+    "emoji": "🏗️",
+    "shortDesc": "Build bridges and structures from craft sticks. Engineering on a tiny scale!",
+    "affiliateLink": "https://www.amazon.com/s?k=popsicle+sticks"
+  },
+  {
+    "id": 262,
+    "name": "Sundial Shadow Tracking",
+    "emoji": "⏰",
+    "shortDesc": "Monitor time's passage using shadows and solar angles. Ancient timekeeping!",
+    "affiliateLink": "https://www.amazon.com/s?k=sundial+kit"
+  },
+  {
+    "id": 263,
+    "name": "CD Mosaic Disco Art",
+    "emoji": "💿",
+    "shortDesc": "Break old CDs and use shiny pieces for sparkly mosaics. Recycled glitter art!",
+    "affiliateLink": "https://www.amazon.com/s?k=cd+blanks"
+  },
+  {
+    "id": 264,
+    "name": "Twig Furniture Miniatures",
+    "emoji": "🪵",
+    "shortDesc": "Craft tiny rustic furniture from foraged sticks. Dollhouse carpentry!",
+    "affiliateLink": "https://www.amazon.com/s?k=miniature+tools"
+  },
+  {
+    "id": 265,
+    "name": "Junk Journal Scrapbooking",
+    "emoji": "📔",
+    "shortDesc": "Create art journals from found papers and ephemera. Organized beautiful chaos!",
+    "affiliateLink": "https://www.amazon.com/s?k=junk+journal"
+  },
+  {
+    "id": 266,
+    "name": "Paper Quilling Filigree",
+    "emoji": "🌸",
+    "shortDesc": "Roll paper strips into intricate coiled designs. Delicate paper sculpture!",
+    "affiliateLink": "https://www.amazon.com/s?k=quilling+paper"
+  },
+  {
+    "id": 267,
+    "name": "Altoids Tin Crafting",
+    "emoji": "🍬",
+    "shortDesc": "Repurpose mint tins into survival kits, altars, and tiny dioramas. Portable projects!",
+    "affiliateLink": "https://www.amazon.com/s?k=altoids+tins"
+  },
+  {
+    "id": 268,
+    "name": "Zentangle Meditative Drawing",
+    "emoji": "✏️",
+    "shortDesc": "Create abstract patterns through repetitive mark-making. Art therapy through doodling!",
+    "affiliateLink": "https://www.amazon.com/s?k=zentangle"
+  },
+  {
+    "id": 269,
+    "name": "Foil Art Embossing",
+    "emoji": "✨",
+    "shortDesc": "Press designs into aluminum foil to create raised metallic art. Shiny sculptures!",
+    "affiliateLink": "https://www.amazon.com/s?k=embossing+foil"
+  },
+  {
+    "id": 270,
+    "name": "Cork Crafting Wine Upcycle",
+    "emoji": "🍾",
+    "shortDesc": "Transform wine corks into coasters, trivets, and sculptures. Classy recycling!",
+    "affiliateLink": "https://www.amazon.com/s?k=wine+corks+bulk"
+  },
+  {
+    "id": 271,
+    "name": "Batik Wax Resist Dyeing",
+    "emoji": "🎨",
+    "shortDesc": "Create fabric patterns using hot wax and dye. Indonesian art technique!",
+    "affiliateLink": "https://www.amazon.com/s?k=batik+kit"
+  },
+  {
+    "id": 272,
+    "name": "Seed Bead Weaving Loom",
+    "emoji": "📿",
+    "shortDesc": "Thread tiny glass beads into jewelry and art. Intricate miniature textiles!",
+    "affiliateLink": "https://www.amazon.com/s?k=seed+beads"
+  },
+  {
+    "id": 273,
+    "name": "Trash To Treasure Upcycling",
+    "emoji": "♻️",
+    "shortDesc": "Transform discarded items into functional art. Creative zero-waste living!",
+    "affiliateLink": "https://www.amazon.com/s?k=upcycling"
+  },
+  {
+    "id": 274,
+    "name": "Ice Cube Tray Crafts",
+    "emoji": "🧊",
+    "shortDesc": "Use silicone molds to cast soap, crayons, and resin objects. Repetitive creative manufacturing!",
+    "affiliateLink": "https://www.amazon.com/s?k=silicone+molds"
+  },
+  {
+    "id": 275,
+    "name": "Friendship Rock Painting",
+    "emoji": "🪨",
+    "shortDesc": "Paint stones with kind messages and hide them for strangers. Anonymous joy spreading!",
+    "affiliateLink": "https://www.amazon.com/s?k=rock+painting"
+  },
+  {
+    "id": 276,
+    "name": "Pompom Animal Making",
+    "emoji": "🐑",
+    "shortDesc": "Wrap yarn around forms to create fuzzy ball creatures. Soft fluffy sculptures!",
+    "affiliateLink": "https://www.amazon.com/s?k=pompom+maker"
+  },
+  {
+    "id": 277,
+    "name": "Pressed Leaf Art Autumn",
+    "emoji": "🍂",
+    "shortDesc": "Preserve colorful fall leaves and arrange them into framed displays. Seasonal art!",
+    "affiliateLink": "https://www.amazon.com/s?k=plant+press"
+  },
+  {
+    "id": 278,
+    "name": "Finger Knitting No Needles",
+    "emoji": "🧶",
+    "shortDesc": "Create knit scarves using only your fingers. Portable yarn craft!",
+    "affiliateLink": "https://www.amazon.com/s?k=chunky+yarn"
+  },
+  {
+    "id": 279,
+    "name": "Map Collage Travel Art",
+    "emoji": "🗺️",
+    "shortDesc": "Cut up old maps and create layered paper sculptures. Geographic art!",
+    "affiliateLink": "https://www.amazon.com/s?k=vintage+maps"
+  },
+  {
+    "id": 280,
+    "name": "Fabric Scrap Quilting",
+    "emoji": "🧵",
+    "shortDesc": "Sew tiny fabric pieces into quilts. Zero-waste textile art!",
+    "affiliateLink": "https://www.amazon.com/s?k=fabric+scraps"
+  },
+  {
+    "id": 281,
+    "name": "Plastic Bag Weaving",
+    "emoji": "🛍️",
+    "shortDesc": "Cut bags into strips and weave them into durable mats. Eco-friendly upcycling!",
+    "affiliateLink": "https://www.amazon.com/s?k=plastic+bags"
+  },
+  {
+    "id": 282,
+    "name": "Magazine Bead Rolling",
+    "emoji": "📰",
+    "shortDesc": "Roll glossy magazine pages into colorful paper beads. Recycled jewelry!",
+    "affiliateLink": "https://www.amazon.com/s?k=paper+bead"
+  },
+  {
+    "id": 283,
+    "name": "Nature Mandala Building",
+    "emoji": "🌻",
+    "shortDesc": "Arrange found natural objects into circular patterns. Ephemeral earth art!",
+    "affiliateLink": "https://www.amazon.com/s?k=mandala+patterns"
+  },
+  {
+    "id": 284,
+    "name": "Tin Punching Folk Art",
+    "emoji": "🔨",
+    "shortDesc": "Hammer decorative patterns into sheet metal. Traditional Americana craft!",
+    "affiliateLink": "https://www.amazon.com/s?k=tin+punching"
+  },
+  {
+    "id": 285,
+    "name": "Plastic Bottle Planters",
+    "emoji": "🌱",
+    "shortDesc": "Cut and decorate bottles into vertical gardens. Upcycled urban farming!",
+    "affiliateLink": "https://www.amazon.com/s?k=plastic+bottles"
+  },
+  {
+    "id": 286,
+    "name": "Cardboard Armor Cosplay",
+    "emoji": "🛡️",
+    "shortDesc": "Craft elaborate costume armor from boxes and paint. Budget costuming!",
+    "affiliateLink": "https://www.amazon.com/s?k=cardboard+sheets"
+  },
+  {
+    "id": 287,
+    "name": "Newspaper Seedling Pots",
+    "emoji": "🌿",
+    "shortDesc": "Roll paper into biodegradable plant starters. Gardening meets recycling!",
+    "affiliateLink": "https://www.amazon.com/s?k=newspaper"
+  },
+  {
+    "id": 288,
+    "name": "Clothespin Doll Making",
+    "emoji": "🧚",
+    "shortDesc": "Transform wooden pins into tiny peg people. Vintage toy craft!",
+    "affiliateLink": "https://www.amazon.com/s?k=wooden+clothespins"
+  },
+  {
+    "id": 289,
+    "name": "Tea Bag Art Painting",
+    "emoji": "☕",
+    "shortDesc": "Paint on used tea bags to create tiny vintage-looking artworks. Stained paper art!",
+    "affiliateLink": "https://www.amazon.com/s?k=tea+bags"
+  },
+  {
+    "id": 290,
+    "name": "Tin Can Wind Chimes",
+    "emoji": "🎐",
+    "shortDesc": "String recycled cans into musical outdoor decorations. Melodic upcycling!",
+    "affiliateLink": "https://www.amazon.com/s?k=wind+chime+parts"
+  },
+  {
+    "id": 291,
+    "name": "Paper Plate Mask Making",
+    "emoji": "🎭",
+    "shortDesc": "Craft theatrical masks from disposable plates. Quick costume creation!",
+    "affiliateLink": "https://www.amazon.com/s?k=paper+plates"
+  },
+  {
+    "id": 292,
+    "name": "Crayon Melting Art Canvas",
+    "emoji": "🖍️",
+    "shortDesc": "Melt wax crayons with heat guns to create abstract paintings. Colorful chaos!",
+    "affiliateLink": "https://www.amazon.com/s?k=bulk+crayons"
+  },
+  {
+    "id": 293,
+    "name": "Cardboard City Building",
+    "emoji": "🏙️",
+    "shortDesc": "Construct miniature urban landscapes from recycled boxes. Architectural modeling!",
+    "affiliateLink": "https://www.amazon.com/s?k=cardboard+craft"
+  },
+  {
+    "id": 294,
+    "name": "Plastic Spoon Flowers",
+    "emoji": "🌺",
+    "shortDesc": "Arrange disposable utensils into blooming sculptures. Synthetic botany!",
+    "affiliateLink": "https://www.amazon.com/s?k=plastic+spoons"
+  },
+  {
+    "id": 295,
+    "name": "Egg Carton Creature Crafts",
+    "emoji": "🐛",
+    "shortDesc": "Transform foam or cardboard egg cartons into bugs and animals. Kid-friendly upcycling!",
+    "affiliateLink": "https://www.amazon.com/s?k=egg+cartons"
+  },
+  {
+    "id": 296,
+    "name": "Wine Cork Bulletin Boards",
+    "emoji": "📌",
+    "shortDesc": "Glue corks together to create functional pin boards. Classy organization!",
+    "affiliateLink": "https://www.amazon.com/s?k=cork+board"
+  },
+  {
+    "id": 297,
+    "name": "Coffee Filter Flowers",
+    "emoji": "🌸",
+    "shortDesc": "Dye and shape filters into realistic blooms. Delicate paper florals!",
+    "affiliateLink": "https://www.amazon.com/s?k=coffee+filters"
+  },
+  {
+    "id": 298,
+    "name": "Toilet Paper Tube Crafts",
+    "emoji": "🧻",
+    "shortDesc": "Create everything from castles to puppets from cardboard tubes. Ultimate recycling!",
+    "affiliateLink": "https://www.amazon.com/s?k=cardboard+tubes"
+  },
+  {
+    "id": 299,
+    "name": "Jar Lid Embroidery Hoops",
+    "emoji": "🧵",
+    "shortDesc": "Use metal lids as tiny embroidery frames for miniature stitched art. Pocket-sized needlework!",
+    "affiliateLink": "https://www.amazon.com/s?k=mason+jar+lids"
+  },
+  {
+    "id": 300,
+    "name": "Cereal Box Organization",
+    "emoji": "📦",
+    "shortDesc": "Cut and cover boxes to create custom drawer dividers. Functional upcycling!",
+    "affiliateLink": "https://www.amazon.com/s?k=drawer+organizer"
   }
 ]
