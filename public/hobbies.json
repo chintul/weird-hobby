@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "name": "Extreme Ironing",
+    "emoji": "🏔️",
+    "shortDesc": "Iron your clothes in the most dangerous and remote locations possible. Mountains, underwater, while skydiving - the more extreme, the better!",
+    "affiliateLink": "https://www.amazon.com/s?k=extreme+ironing"
+  },
+  {
+    "id": 2,
+    "name": "Competitive Duck Herding",
+    "emoji": "🦆",
+    "shortDesc": "Guide ducks through obstacle courses using only your voice and hand gestures. It's like sheepdog trials, but quackier!",
+    "affiliateLink": "https://www.amazon.com/s?k=duck+herding"
+  },
+  {
+    "id": 3,
+    "name": "Underwater Basket Weaving",
+    "emoji": "🧺",
+    "shortDesc": "The legendary hobby is real! Weave beautiful baskets while submerged in water. Requires excellent breath control and dexterity.",
+    "affiliateLink": "https://www.amazon.com/s?k=underwater+basket+weaving"
+  },
+  {
+    "id": 4,
+    "name": "Cheese Rolling Racing",
+    "emoji": "🧀",
+    "shortDesc": "Chase a 9-pound wheel of cheese down a steep hill at breakneck speeds. First one to catch it wins (or survives)!",
+    "affiliateLink": "https://www.amazon.com/s?k=cheese+rolling"
+  },
+  {
+    "id": 5,
+    "name": "Competitive Toe Wrestling",
+    "emoji": "🦶",
+    "shortDesc": "Like arm wrestling, but with your toes! Lock feet with your opponent and try to pin their foot for three seconds.",
+    "affiliateLink": "https://www.amazon.com/s?k=toe+wrestling"
+  },
+  {
+    "id": 6,
+    "name": "Mooing Contests",
+    "emoji": "🐄",
+    "shortDesc": "Compete to produce the most realistic cow mooing sounds. Judges rate on authenticity, volume, and emotional depth.",
+    "affiliateLink": "https://www.amazon.com/s?k=mooing+contest"
+  },
+  {
+    "id": 7,
+    "name": "Soap Carving Sculptures",
+    "emoji": "🧼",
+    "shortDesc": "Transform ordinary bars of soap into intricate works of art. It's like ice sculpting, but you can wash your hands with your mistakes!",
+    "affiliateLink": "https://www.amazon.com/s?k=soap+carving"
+  },
+  {
+    "id": 8,
+    "name": "Professional Noodling",
+    "emoji": "🐟",
+    "shortDesc": "Catch catfish with your bare hands by sticking them into murky underwater holes. What could go wrong?",
+    "affiliateLink": "https://www.amazon.com/s?k=noodling+fishing"
+  },
+  {
+    "id": 9,
+    "name": "Backwards Running",
+    "emoji": "🏃",
+    "shortDesc": "Run marathons and races while facing backwards. Improves balance, coordination, and your ability to look silly!",
+    "affiliateLink": "https://www.amazon.com/s?k=backwards+running"
+  },
+  {
+    "id": 10,
+    "name": "Beard Baubles Decorating",
+    "emoji": "🎄",
+    "shortDesc": "Decorate your majestic beard with ornaments, lights, and tinsel. Turn your facial hair into a festive masterpiece!",
+    "affiliateLink": "https://www.amazon.com/s?k=beard+ornaments"
+  },
+  {
+    "id": 11,
+    "name": "Competitive Paper Plane Throwing",
+    "emoji": "✈️",
+    "shortDesc": "Engineer and throw paper planes for distance, accuracy, and flight time. Aerodynamics meets origami!",
+    "affiliateLink": "https://www.amazon.com/s?k=paper+airplane"
+  },
+  {
+    "id": 12,
+    "name": "Worm Charming",
+    "emoji": "🪱",
+    "shortDesc": "Coax earthworms out of the ground using vibrations, music, or dancing. The person with the most worms wins!",
+    "affiliateLink": "https://www.amazon.com/s?k=worm+charming"
+  },
+  {
+    "id": 13,
+    "name": "Extreme Pogo Sticking",
+    "emoji": "🤸",
+    "shortDesc": "Perform tricks, jumps, and stunts on high-performance pogo sticks. Bounce your way to glory!",
+    "affiliateLink": "https://www.amazon.com/s?k=extreme+pogo+stick"
+  },
+  {
+    "id": 14,
+    "name": "Vintage Lunchbox Collecting",
+    "emoji": "🍱",
+    "shortDesc": "Amass a collection of retro metal lunchboxes from the '60s, '70s, and '80s. Nostalgia you can carry!",
+    "affiliateLink": "https://www.amazon.com/s?k=vintage+lunchbox"
+  },
+  {
+    "id": 15,
+    "name": "Cardboard Tube Fighting",
+    "emoji": "⚔️",
+    "shortDesc": "Medieval combat with wrapping paper tubes! Safe, silly, and surprisingly strategic.",
+    "affiliateLink": "https://www.amazon.com/s?k=cardboard+tube"
+  },
+  {
+    "id": 16,
+    "name": "Gurning Championships",
+    "emoji": "😝",
+    "shortDesc": "Make the ugliest, most distorted face possible through a horse collar. It's an actual British tradition!",
+    "affiliateLink": "https://www.amazon.com/s?k=gurning"
+  },
+  {
+    "id": 17,
+    "name": "Beetle Racing",
+    "emoji": "🪲",
+    "shortDesc": "Train and race beetles in tiny racetracks. Place your bets on your favorite arthropod athlete!",
+    "affiliateLink": "https://www.amazon.com/s?k=beetle+racing"
+  },
+  {
+    "id": 18,
+    "name": "Tattooing Fruit",
+    "emoji": "🍊",
+    "shortDesc": "Practice your tattoo artistry on oranges, bananas, and other produce. It's vegan and your mistakes are edible!",
+    "affiliateLink": "https://www.amazon.com/s?k=tattoo+practice+fruit"
+  },
+  {
+    "id": 19,
+    "name": "Shoebox Diorama Building",
+    "emoji": "📦",
+    "shortDesc": "Create entire miniature worlds inside shoeboxes. From historical battles to fantasy landscapes!",
+    "affiliateLink": "https://www.amazon.com/s?k=diorama+supplies"
+  },
+  {
+    "id": 20,
+    "name": "Competitive Bed Racing",
+    "emoji": "🛏️",
+    "shortDesc": "Attach wheels to beds and race them down streets. One person rides while the team pushes. Surprisingly fast!",
+    "affiliateLink": "https://www.amazon.com/s?k=bed+racing"
+  },
+  {
+    "id": 21,
+    "name": "Moss Graffiti Art",
+    "emoji": "🌿",
+    "shortDesc": "Create living street art by painting walls with a moss and yogurt mixture. Watch your art grow!",
+    "affiliateLink": "https://www.amazon.com/s?k=moss+graffiti"
+  },
+  {
+    "id": 22,
+    "name": "Ostrich Racing Jockey",
+    "emoji": "🦩",
+    "shortDesc": "Ride giant birds at speeds up to 40 mph. Like horse racing, but with more personality and pecking!",
+    "affiliateLink": "https://www.amazon.com/s?k=ostrich+racing"
+  },
+  {
+    "id": 23,
+    "name": "Geocaching Extreme Edition",
+    "emoji": "🗺️",
+    "shortDesc": "Hunt for hidden treasures using GPS coordinates in the most remote and challenging locations on Earth.",
+    "affiliateLink": "https://www.amazon.com/s?k=geocaching"
+  },
+  {
+    "id": 24,
+    "name": "Potato Battery Engineering",
+    "emoji": "🥔",
+    "shortDesc": "Power electronic devices using only potatoes and basic chemistry. How many spuds to charge your phone?",
+    "affiliateLink": "https://www.amazon.com/s?k=potato+battery+kit"
+  },
+  {
+    "id": 25,
+    "name": "Extreme Sitting",
+    "emoji": "🪑",
+    "shortDesc": "Sit in chairs placed in dangerous or unusual locations. On cliff edges, in trees, underwater - creativity required!",
+    "affiliateLink": "https://www.amazon.com/s?k=portable+chair"
+  },
+  {
+    "id": 26,
+    "name": "Vintage Typewriter Repair",
+    "emoji": "⌨️",
+    "shortDesc": "Restore and maintain mechanical typewriters from the early 1900s. Clacking keys, no batteries required!",
+    "affiliateLink": "https://www.amazon.com/s?k=vintage+typewriter"
+  },
+  {
+    "id": 27,
+    "name": "Mushroom Foraging Competitions",
+    "emoji": "🍄",
+    "shortDesc": "Hunt for edible mushrooms in forests. Knowledge, speed, and not dying are key to winning!",
+    "affiliateLink": "https://www.amazon.com/s?k=mushroom+foraging+guide"
+  },
+  {
+    "id": 28,
+    "name": "Stick Insect Breeding",
+    "emoji": "🦗",
+    "shortDesc": "Raise colonies of these camouflage masters. Watch them pretend to be twigs all day long!",
+    "affiliateLink": "https://www.amazon.com/s?k=stick+insect"
+  },
+  {
+    "id": 29,
+    "name": "Rubber Duck Debugging",
+    "emoji": "🦆",
+    "shortDesc": "Explain your code problems to a rubber duck. Surprisingly effective troubleshooting method!",
+    "affiliateLink": "https://www.amazon.com/s?k=rubber+duck+debugging"
+  },
+  {
+    "id": 30,
+    "name": "Train Horn Recording",
+    "emoji": "🚂",
+    "shortDesc": "Travel the world recording the unique horn sounds of different locomotives. Build the ultimate train horn library!",
+    "affiliateLink": "https://www.amazon.com/s?k=train+horn"
+  },
+  {
+    "id": 31,
+    "name": "Competitive Hair Freezing",
+    "emoji": "❄️",
+    "shortDesc": "Dip your head in hot springs in freezing weather and sculpt your freezing hair into wild shapes!",
+    "affiliateLink": "https://www.amazon.com/s?k=hair+freezing"
+  },
+  {
+    "id": 32,
+    "name": "Ant Farm Architecture",
+    "emoji": "🐜",
+    "shortDesc": "Design elaborate tunnel systems for your ant colonies. Watch your tiny workers build underground cities!",
+    "affiliateLink": "https://www.amazon.com/s?k=ant+farm"
+  },
+  {
+    "id": 33,
+    "name": "Spoon Bending Mind Control",
+    "emoji": "🥄",
+    "shortDesc": "Attempt to bend spoons using only your mind (or clever hand tricks). Uri Geller would be proud!",
+    "affiliateLink": "https://www.amazon.com/s?k=spoon+bending"
+  },
+  {
+    "id": 34,
+    "name": "Bog Snorkeling Championships",
+    "emoji": "🤿",
+    "shortDesc": "Swim through muddy bog trenches wearing snorkels and flippers. The murkier, the better!",
+    "affiliateLink": "https://www.amazon.com/s?k=snorkeling+gear"
+  },
+  {
+    "id": 35,
+    "name": "Bonsai Tree Cultivation",
+    "emoji": "🌳",
+    "shortDesc": "Grow and prune miniature trees for decades. Patience is required, but your tiny forest will be magnificent!",
+    "affiliateLink": "https://www.amazon.com/s?k=bonsai+tree"
+  },
+  {
+    "id": 36,
+    "name": "Cassette Tape Mixtape Making",
+    "emoji": "📼",
+    "shortDesc": "Curate perfect 90-minute playlists on analog cassettes. Rewind and fast-forward your way to nostalgia!",
+    "affiliateLink": "https://www.amazon.com/s?k=cassette+tape"
+  },
+  {
+    "id": 37,
+    "name": "Pumpkin Chucking Engineering",
+    "emoji": "🎃",
+    "shortDesc": "Build catapults and air cannons to launch pumpkins as far as possible. Physics meets produce destruction!",
+    "affiliateLink": "https://www.amazon.com/s?k=pumpkin+chunking"
+  },
+  {
+    "id": 38,
+    "name": "Silent Disco Dancing",
+    "emoji": "🎧",
+    "shortDesc": "Dance to music only you can hear through wireless headphones. To observers, you're just weirdly grooving in silence!",
+    "affiliateLink": "https://www.amazon.com/s?k=silent+disco+headphones"
+  },
+  {
+    "id": 39,
+    "name": "Matchstick Architecture",
+    "emoji": "🏰",
+    "shortDesc": "Build intricate models of famous buildings using only matchsticks and glue. Thousands of tiny sticks, infinite patience!",
+    "affiliateLink": "https://www.amazon.com/s?k=matchstick+model"
+  },
+  {
+    "id": 40,
+    "name": "Hermit Crab Shell Decorating",
+    "emoji": "🦀",
+    "shortDesc": "Paint and bedazzle shells for hermit crabs to move into. Give your crabby friend a stylish home upgrade!",
+    "affiliateLink": "https://www.amazon.com/s?k=hermit+crab+shells"
+  },
+  {
+    "id": 41,
+    "name": "Fossil Hunting Expeditions",
+    "emoji": "🦴",
+    "shortDesc": "Scour ancient rock formations for prehistoric treasures. Every pebble could be a 100-million-year-old discovery!",
+    "affiliateLink": "https://www.amazon.com/s?k=fossil+hunting+kit"
+  },
+  {
+    "id": 42,
+    "name": "Kinetic Sand Sculpting",
+    "emoji": "⏳",
+    "shortDesc": "Mold mesmerizing sculptures from satisfying moldable sand that never dries out. ASMR meets art!",
+    "affiliateLink": "https://www.amazon.com/s?k=kinetic+sand"
+  },
+  {
+    "id": 43,
+    "name": "Pigeon Racing Training",
+    "emoji": "🕊️",
+    "shortDesc": "Train homing pigeons to race across hundreds of miles. GPS on wings, but way more impressive!",
+    "affiliateLink": "https://www.amazon.com/s?k=pigeon+racing"
+  },
+  {
+    "id": 44,
+    "name": "Traffic Cone Collection",
+    "emoji": "🚧",
+    "shortDesc": "Amass cones from different cities, countries, and eras. The holy grail: a vintage 1960s cone!",
+    "affiliateLink": "https://www.amazon.com/s?k=traffic+cone"
+  },
+  {
+    "id": 45,
+    "name": "Yodeling Competitions",
+    "emoji": "🏔️",
+    "shortDesc": "Master the art of Alpine yodeling! Rapid pitch changes echo through mountain valleys beautifully.",
+    "affiliateLink": "https://www.amazon.com/s?k=yodeling"
+  },
+  {
+    "id": 46,
+    "name": "Ferrofluid Magnetic Art",
+    "emoji": "🧲",
+    "shortDesc": "Manipulate liquid that responds to magnets to create otherworldly spiky sculptures. Science meets magic!",
+    "affiliateLink": "https://www.amazon.com/s?k=ferrofluid"
+  },
+  {
+    "id": 47,
+    "name": "Competitive Napping",
+    "emoji": "😴",
+    "shortDesc": "Race to fall asleep the fastest in noisy environments. Snoring is judged as a skill, not a flaw!",
+    "affiliateLink": "https://www.amazon.com/s?k=sleep+mask"
+  },
+  {
+    "id": 48,
+    "name": "Lock Picking Sport",
+    "emoji": "🔐",
+    "shortDesc": "Master the art of opening locks without keys. Completely legal when you own the locks!",
+    "affiliateLink": "https://www.amazon.com/s?k=lock+picking+set"
+  },
+  {
+    "id": 49,
+    "name": "Shipping Container Home Design",
+    "emoji": "📦",
+    "shortDesc": "Transform industrial cargo containers into livable tiny homes. Upcycling meets architecture!",
+    "affiliateLink": "https://www.amazon.com/s?k=shipping+container+home"
+  },
+  {
+    "id": 50,
+    "name": "Chess Boxing Championships",
+    "emoji": "🥊",
+    "shortDesc": "Alternate between rounds of chess and boxing. Checkmate with your brain, knockout with your fists!",
+    "affiliateLink": "https://www.amazon.com/s?k=chess+boxing"
+  },
+  {
+    "id": 51,
+    "name": "Vintage Radio Restoration",
+    "emoji": "📻",
+    "shortDesc": "Bring old tube radios back to life. That warm analog sound beats digital any day!",
+    "affiliateLink": "https://www.amazon.com/s?k=vintage+radio"
+  },
+  {
+    "id": 52,
+    "name": "Bottle Cap Mosaics",
+    "emoji": "🍾",
+    "shortDesc": "Create colorful artwork from thousands of collected bottle caps. One person's trash is your masterpiece!",
+    "affiliateLink": "https://www.amazon.com/s?k=bottle+caps"
+  },
+  {
+    "id": 53,
+    "name": "Urban Beekeeping",
+    "emoji": "🐝",
+    "shortDesc": "Maintain bee colonies on rooftops in the middle of cities. Fresh honey from the concrete jungle!",
+    "affiliateLink": "https://www.amazon.com/s?k=beekeeping+kit"
+  },
+  {
+    "id": 54,
+    "name": "Competitive Ice Fishing",
+    "emoji": "🎣",
+    "shortDesc": "Drill holes in frozen lakes and compete to catch the most fish. Patience in sub-zero temperatures required!",
+    "affiliateLink": "https://www.amazon.com/s?k=ice+fishing"
+  },
+  {
+    "id": 55,
+    "name": "Rubik's Cube Speed Solving",
+    "emoji": "🎲",
+    "shortDesc": "Solve the classic puzzle in under 5 seconds. Your fingers move faster than people can blink!",
+    "affiliateLink": "https://www.amazon.com/s?k=speed+cube"
+  },
+  {
+    "id": 56,
+    "name": "Sandcastle Engineering",
+    "emoji": "🏰",
+    "shortDesc": "Build architectural wonders from sand and water. Cathedrals, castles, and cities that disappear with the tide!",
+    "affiliateLink": "https://www.amazon.com/s?k=sandcastle+tools"
+  },
+  {
+    "id": 57,
+    "name": "Parkour Free Running",
+    "emoji": "🏃",
+    "shortDesc": "Turn the urban landscape into your playground. Vault, climb, and flip through city obstacles!",
+    "affiliateLink": "https://www.amazon.com/s?k=parkour"
+  },
+  {
+    "id": 58,
+    "name": "Origami Crane Folding Marathon",
+    "emoji": "🦢",
+    "shortDesc": "Fold 1000 paper cranes to make a wish come true. Japanese tradition meets repetitive motion disorder!",
+    "affiliateLink": "https://www.amazon.com/s?k=origami+paper"
+  },
+  {
+    "id": 59,
+    "name": "Duct Tape Fashion Design",
+    "emoji": "🎨",
+    "shortDesc": "Create wearable clothes, accessories, and art entirely from duct tape. Surprisingly durable and waterproof!",
+    "affiliateLink": "https://www.amazon.com/s?k=duct+tape+colors"
+  },
+  {
+    "id": 60,
+    "name": "Soap Box Derby Racing",
+    "emoji": "🏎️",
+    "shortDesc": "Build gravity-powered cars and race them downhill. No engines, just wheels, gravity, and courage!",
+    "affiliateLink": "https://www.amazon.com/s?k=soap+box+derby"
+  },
+  {
+    "id": 61,
+    "name": "Competitive Eating Contests",
+    "emoji": "🌭",
+    "shortDesc": "Consume massive quantities of food faster than anyone else. Your stomach capacity is your superpower!",
+    "affiliateLink": "https://www.amazon.com/s?k=competitive+eating"
+  },
+  {
+    "id": 62,
+    "name": "Crystal Growing Chemistry",
+    "emoji": "💎",
+    "shortDesc": "Grow stunning crystals at home using simple chemistry. Watch geometric perfection form before your eyes!",
+    "affiliateLink": "https://www.amazon.com/s?k=crystal+growing+kit"
+  },
+  {
+    "id": 63,
+    "name": "Historical Reenactment Battles",
+    "emoji": "⚔️",
+    "shortDesc": "Dress in period costume and recreate famous battles. Live history, but with fewer casualties!",
+    "affiliateLink": "https://www.amazon.com/s?k=historical+reenactment"
+  },
+  {
+    "id": 64,
+    "name": "Kombucha Brewing Experiments",
+    "emoji": "🫙",
+    "shortDesc": "Ferment tea with SCOBY (symbiotic culture of bacteria and yeast). Create fizzy probiotic drinks that taste amazing!",
+    "affiliateLink": "https://www.amazon.com/s?k=kombucha+brewing+kit"
+  },
+  {
+    "id": 65,
+    "name": "Miniature Railway Building",
+    "emoji": "🚂",
+    "shortDesc": "Construct elaborate model train layouts with tiny towns, mountains, and working signals. Choo choo!",
+    "affiliateLink": "https://www.amazon.com/s?k=model+train+set"
+  },
+  {
+    "id": 66,
+    "name": "Zorbing Ball Rolling",
+    "emoji": "⚽",
+    "shortDesc": "Climb inside a giant inflatable ball and roll down hills. Like being a hamster, but more extreme!",
+    "affiliateLink": "https://www.amazon.com/s?k=zorbing+ball"
+  },
+  {
+    "id": 67,
+    "name": "Tarantula Keeping",
+    "emoji": "🕷️",
+    "shortDesc": "Raise these fuzzy eight-legged pets. They're actually quite docile and need surprisingly little maintenance!",
+    "affiliateLink": "https://www.amazon.com/s?k=tarantula+terrarium"
+  },
+  {
+    "id": 68,
+    "name": "Concrete Canoe Racing",
+    "emoji": "🛶",
+    "shortDesc": "Build canoes entirely from concrete and race them on water. Buoyancy is optional, skill is mandatory!",
+    "affiliateLink": "https://www.amazon.com/s?k=concrete+canoe"
+  },
+  {
+    "id": 69,
+    "name": "Escape Room Designing",
+    "emoji": "🔓",
+    "shortDesc": "Create elaborate puzzle rooms to trap (and eventually release) your friends. Sadistic creativity required!",
+    "affiliateLink": "https://www.amazon.com/s?k=escape+room+puzzles"
+  },
+  {
+    "id": 70,
+    "name": "Medieval Calligraphy",
+    "emoji": "🖋️",
+    "shortDesc": "Master the art of beautiful handwriting using traditional quills and ink. Make grocery lists look like royal decrees!",
+    "affiliateLink": "https://www.amazon.com/s?k=calligraphy+set"
+  },
+  {
+    "id": 71,
+    "name": "Pickle Making Science",
+    "emoji": "🥒",
+    "shortDesc": "Ferment cucumbers and other vegetables into tangy preserved delights. Your brine recipe is your secret weapon!",
+    "affiliateLink": "https://www.amazon.com/s?k=pickle+making+kit"
+  },
+  {
+    "id": 72,
+    "name": "Unicycle Commuting",
+    "emoji": "🚴",
+    "shortDesc": "Ditch the bike and ride to work on one wheel. Balance is everything, embarrassment is guaranteed!",
+    "affiliateLink": "https://www.amazon.com/s?k=unicycle"
+  },
+  {
+    "id": 73,
+    "name": "Pinball Machine Restoration",
+    "emoji": "🎰",
+    "shortDesc": "Bring vintage arcade pinball machines back to their flashing, dinging glory. Tilt responsibly!",
+    "affiliateLink": "https://www.amazon.com/s?k=pinball+machine"
+  },
+  {
+    "id": 74,
+    "name": "Moth Taxonomy Collection",
+    "emoji": "🦋",
+    "shortDesc": "Identify and catalog different moth species. They're butterflies' goth cousins and just as beautiful!",
+    "affiliateLink": "https://www.amazon.com/s?k=moth+identification"
+  },
+  {
+    "id": 75,
+    "name": "Soap Making Alchemy",
+    "emoji": "🧴",
+    "shortDesc": "Mix lye and oils to create handcrafted soaps. Chemistry that leaves you smelling fantastic!",
+    "affiliateLink": "https://www.amazon.com/s?k=soap+making+kit"
+  },
+  {
+    "id": 76,
+    "name": "Fire Poi Spinning",
+    "emoji": "🔥",
+    "shortDesc": "Swing flaming balls on chains in mesmerizing patterns. Dance with danger and look incredibly cool doing it!",
+    "affiliateLink": "https://www.amazon.com/s?k=fire+poi"
+  },
+  {
+    "id": 77,
+    "name": "Mushroom Growing Cultivation",
+    "emoji": "🍄",
+    "shortDesc": "Grow gourmet mushrooms at home in logs or bags. Oyster, shiitake, and lion's mane right in your closet!",
+    "affiliateLink": "https://www.amazon.com/s?k=mushroom+growing+kit"
+  },
+  {
+    "id": 78,
+    "name": "Kendama Ball Catching",
+    "emoji": "🎯",
+    "shortDesc": "Master this Japanese wooden skill toy by catching the ball in various cups. Harder than it looks!",
+    "affiliateLink": "https://www.amazon.com/s?k=kendama"
+  },
+  {
+    "id": 79,
+    "name": "License Plate Collecting",
+    "emoji": "🚗",
+    "shortDesc": "Gather plates from every state, country, and era. The ultimate road trip souvenir collection!",
+    "affiliateLink": "https://www.amazon.com/s?k=license+plate+collection"
+  },
+  {
+    "id": 80,
+    "name": "Extreme Couponing",
+    "emoji": "💰",
+    "shortDesc": "Turn grocery shopping into a game where you walk out with carts full of stuff for pennies. Math skills required!",
+    "affiliateLink": "https://www.amazon.com/s?k=coupon+organizer"
+  },
+  {
+    "id": 81,
+    "name": "Bottle Ship Building",
+    "emoji": "⛵",
+    "shortDesc": "Construct detailed sailing ships inside bottles using tweezers and patience. How'd they get in there?",
+    "affiliateLink": "https://www.amazon.com/s?k=ship+in+bottle"
+  },
+  {
+    "id": 82,
+    "name": "Stick Fighting Martial Arts",
+    "emoji": "🥋",
+    "shortDesc": "Learn Escrima or Kali Filipino stick fighting. Two sticks, endless possibilities for whacking!",
+    "affiliateLink": "https://www.amazon.com/s?k=escrima+sticks"
+  },
+  {
+    "id": 83,
+    "name": "Storm Chasing Photography",
+    "emoji": "🌪️",
+    "shortDesc": "Chase tornadoes and supercells across the plains for that perfect shot. Adrenaline and excellent insurance required!",
+    "affiliateLink": "https://www.amazon.com/s?k=storm+chasing"
+  },
+  {
+    "id": 84,
+    "name": "Typewriter Poetry",
+    "emoji": "📝",
+    "shortDesc": "Compose poems on vintage typewriters in public spaces. Offer instant custom poems to strangers!",
+    "affiliateLink": "https://www.amazon.com/s?k=typewriter"
+  },
+  {
+    "id": 85,
+    "name": "Magnet Fishing Adventures",
+    "emoji": "🧲",
+    "shortDesc": "Drop powerful magnets into waterways and pull up metal treasures (and trash). Urban archaeology with ropes!",
+    "affiliateLink": "https://www.amazon.com/s?k=magnet+fishing"
+  },
+  {
+    "id": 86,
+    "name": "Slacklining Balance",
+    "emoji": "🎪",
+    "shortDesc": "Walk on bouncy webbing strung between trees. Like tightrope walking, but bouncier and closer to the ground!",
+    "affiliateLink": "https://www.amazon.com/s?k=slackline"
+  },
+  {
+    "id": 87,
+    "name": "Terrarium Ecosystem Building",
+    "emoji": "🌿",
+    "shortDesc": "Create self-sustaining miniature worlds in glass containers. Tiny gardens that water themselves!",
+    "affiliateLink": "https://www.amazon.com/s?k=terrarium+kit"
+  },
+  {
+    "id": 88,
+    "name": "Yo-Yo Trick Mastery",
+    "emoji": "🪀",
+    "shortDesc": "Learn hundreds of complex yo-yo tricks. From basic sleepers to advanced string manipulations!",
+    "affiliateLink": "https://www.amazon.com/s?k=professional+yoyo"
+  },
+  {
+    "id": 89,
+    "name": "Cheese Making Artisan",
+    "emoji": "🧀",
+    "shortDesc": "Transform milk into delicious homemade cheeses. Mozzarella, cheddar, brie - all from your kitchen!",
+    "affiliateLink": "https://www.amazon.com/s?k=cheese+making+kit"
+  },
+  {
+    "id": 90,
+    "name": "Mechanical Keyboard Building",
+    "emoji": "⌨️",
+    "shortDesc": "Custom build keyboards with different switches, keycaps, and layouts. The clickiest, clackiest hobby ever!",
+    "affiliateLink": "https://www.amazon.com/s?k=mechanical+keyboard+kit"
+  },
+  {
+    "id": 91,
+    "name": "Balloon Animal Twisting",
+    "emoji": "🎈",
+    "shortDesc": "Twist balloons into dogs, swords, hats, and elaborate sculptures. Bring joy (and potential pops) everywhere!",
+    "affiliateLink": "https://www.amazon.com/s?k=balloon+twisting"
+  },
+  {
+    "id": 92,
+    "name": "Chainmail Armor Making",
+    "emoji": "🛡️",
+    "shortDesc": "Link thousands of metal rings into medieval armor. Tedious, but you'll be ready for the next crusade!",
+    "affiliateLink": "https://www.amazon.com/s?k=chainmail+rings"
+  },
+  {
+    "id": 93,
+    "name": "Competitive Whistling",
+    "emoji": "🎵",
+    "shortDesc": "Whistle complex melodies and compete internationally. Your puckered lips are your instrument!",
+    "affiliateLink": "https://www.amazon.com/s?k=whistling"
+  },
+  {
+    "id": 94,
+    "name": "Robot Combat Building",
+    "emoji": "🤖",
+    "shortDesc": "Build remote-controlled robots to fight in arenas. BattleBots but with your own destructive creation!",
+    "affiliateLink": "https://www.amazon.com/s?k=combat+robot+kit"
+  },
+  {
+    "id": 95,
+    "name": "Hydroponic Gardening",
+    "emoji": "🥬",
+    "shortDesc": "Grow plants without soil using nutrient-rich water. Fresh vegetables from your apartment!",
+    "affiliateLink": "https://www.amazon.com/s?k=hydroponic+system"
+  },
+  {
+    "id": 96,
+    "name": "Knife Throwing Accuracy",
+    "emoji": "🔪",
+    "shortDesc": "Stick blades into targets from increasing distances. Dangerous, thrilling, and surprisingly therapeutic!",
+    "affiliateLink": "https://www.amazon.com/s?k=throwing+knives"
+  },
+  {
+    "id": 97,
+    "name": "Clock Repair Horology",
+    "emoji": "🕰️",
+    "shortDesc": "Fix and restore antique clocks and watches. Tiny gears, springs, and the satisfaction of keeping time!",
+    "affiliateLink": "https://www.amazon.com/s?k=clock+repair+tools"
+  },
+  {
+    "id": 98,
+    "name": "Scratch Lottery Ticket Strategy",
+    "emoji": "🎫",
+    "shortDesc": "Develop mathematical strategies for scratch-off tickets. Probably won't win millions, but the odds improve!",
+    "affiliateLink": "https://www.amazon.com/s?k=lottery+ticket"
+  },
+  {
+    "id": 99,
+    "name": "Butterfly Knife Flipping",
+    "emoji": "🦋",
+    "shortDesc": "Perform flashy tricks with balisong knives. Impressive to watch, dangerous to learn!",
+    "affiliateLink": "https://www.amazon.com/s?k=butterfly+knife+trainer"
+  },
+  {
+    "id": 100,
+    "name": "Sourdough Bread Starter Care",
+    "emoji": "🍞",
+    "shortDesc": "Maintain a living yeast culture and bake artisan bread. Your starter is basically a pet that makes toast!",
+    "affiliateLink": "https://www.amazon.com/s?k=sourdough+starter"
+  }
+]
