@@ -2098,5 +2098,705 @@
     "emoji": "📦",
     "shortDesc": "Cut and cover boxes to create custom drawer dividers. Functional upcycling!",
     "affiliateLink": "https://www.amazon.com/s?k=drawer+organizer"
+  },
+  {
+    "id": 301,
+    "name": "Bottle Cap Magnets Making",
+    "emoji": "🧲",
+    "shortDesc": "Glue magnets to decorated bottle caps for custom fridge art. Functional miniatures!",
+    "affiliateLink": "https://www.amazon.com/s?k=craft+magnets"
+  },
+  {
+    "id": 302,
+    "name": "Spoon Ring Jewelry Bending",
+    "emoji": "🥄",
+    "shortDesc": "Bend vintage spoons into wearable rings. Silverware becomes jewelry!",
+    "affiliateLink": "https://www.amazon.com/s?k=silver+spoons"
+  },
+  {
+    "id": 303,
+    "name": "Potato Stamp Printing",
+    "emoji": "🥔",
+    "shortDesc": "Carve designs into potatoes and use them as stamps. Vegetable printmaking!",
+    "affiliateLink": "https://www.amazon.com/s?k=stamp+ink+pad"
+  },
+  {
+    "id": 304,
+    "name": "Dryer Lint Fire Starters",
+    "emoji": "🔥",
+    "shortDesc": "Stuff lint into cardboard tubes for camping fire starters. Useful trash!",
+    "affiliateLink": "https://www.amazon.com/s?k=fire+starter"
+  },
+  {
+    "id": 305,
+    "name": "Stick Weaving Nature Looms",
+    "emoji": "🪵",
+    "shortDesc": "Create small weavings on foraged stick frames. Portable textile art!",
+    "affiliateLink": "https://www.amazon.com/s?k=weaving+yarn"
+  },
+  {
+    "id": 306,
+    "name": "Rock Balancing Meditation",
+    "emoji": "🪨",
+    "shortDesc": "Stack stones in gravity-defying formations. Zen patience practice!",
+    "affiliateLink": "https://www.amazon.com/s?k=balancing+stones"
+  },
+  {
+    "id": 307,
+    "name": "Penny Floor Tiling Art",
+    "emoji": "🪙",
+    "shortDesc": "Glue thousands of pennies to create metallic floor surfaces. Expensive cheap flooring!",
+    "affiliateLink": "https://www.amazon.com/s?k=pennies+bulk"
+  },
+  {
+    "id": 308,
+    "name": "Glowstick Chemistry Experiments",
+    "emoji": "💡",
+    "shortDesc": "Study chemiluminescence through glow stick reactions. Science in the dark!",
+    "affiliateLink": "https://www.amazon.com/s?k=glow+sticks+bulk"
+  },
+  {
+    "id": 309,
+    "name": "Rubber Band Gun Building",
+    "emoji": "🔫",
+    "shortDesc": "Craft wooden shooters that launch elastic bands. Harmless desk warfare!",
+    "affiliateLink": "https://www.amazon.com/s?k=rubber+band+gun"
+  },
+  {
+    "id": 310,
+    "name": "Vintage Postcard Collecting",
+    "emoji": "📮",
+    "shortDesc": "Amass old postcards from different eras and locations. Portable time capsules!",
+    "affiliateLink": "https://www.amazon.com/s?k=vintage+postcards"
+  },
+  {
+    "id": 311,
+    "name": "Seed Saving Heirloom Plants",
+    "emoji": "🌱",
+    "shortDesc": "Harvest and preserve seeds from heritage vegetables. Genetic preservation!",
+    "affiliateLink": "https://www.amazon.com/s?k=seed+storage"
+  },
+  {
+    "id": 312,
+    "name": "Nail Polish Marbling Water",
+    "emoji": "💅",
+    "shortDesc": "Float polish on water and dip objects to create swirled patterns. Liquid art transfer!",
+    "affiliateLink": "https://www.amazon.com/s?k=nail+polish"
+  },
+  {
+    "id": 313,
+    "name": "Clothesline Photo Display",
+    "emoji": "📸",
+    "shortDesc": "String wire and clip photos for rotating wall galleries. Changeable art!",
+    "affiliateLink": "https://www.amazon.com/s?k=photo+clips"
+  },
+  {
+    "id": 314,
+    "name": "Worry Stone Carving",
+    "emoji": "🪨",
+    "shortDesc": "Shape smooth stones with thumb grooves for anxiety relief. Tactile meditation!",
+    "affiliateLink": "https://www.amazon.com/s?k=worry+stone"
+  },
+  {
+    "id": 315,
+    "name": "Feather Collection Identification",
+    "emoji": "🪶",
+    "shortDesc": "Find and catalog bird feathers by species. Ethical ornithology!",
+    "affiliateLink": "https://www.amazon.com/s?k=feather+identification"
+  },
+  {
+    "id": 316,
+    "name": "Twig Rune Carving",
+    "emoji": "🪵",
+    "shortDesc": "Carve ancient symbols into wooden sticks for divination. Mystical woodcraft!",
+    "affiliateLink": "https://www.amazon.com/s?k=rune+carving"
+  },
+  {
+    "id": 317,
+    "name": "Spool Knitting French Knitting",
+    "emoji": "🧶",
+    "shortDesc": "Create long yarn tubes using wooden spools with nails. Old-fashioned cord making!",
+    "affiliateLink": "https://www.amazon.com/s?k=knitting+spool"
+  },
+  {
+    "id": 318,
+    "name": "Banana Peel Art Aging",
+    "emoji": "🍌",
+    "shortDesc": "Scratch designs that brown into the peel. Temporary edible art!",
+    "affiliateLink": "https://www.amazon.com/s?k=bananas"
+  },
+  {
+    "id": 319,
+    "name": "Glow In Dark Star Ceilings",
+    "emoji": "⭐",
+    "shortDesc": "Arrange phosphorescent stickers into accurate constellations. Bedroom planetarium!",
+    "affiliateLink": "https://www.amazon.com/s?k=glow+stars"
+  },
+  {
+    "id": 320,
+    "name": "Marble Run Construction",
+    "emoji": "⚽",
+    "shortDesc": "Build elaborate tracks for marbles using tubes and ramps. Kinetic engineering!",
+    "affiliateLink": "https://www.amazon.com/s?k=marble+run+set"
+  },
+  {
+    "id": 321,
+    "name": "Clothespin Airplane Building",
+    "emoji": "✈️",
+    "shortDesc": "Craft flying toys from wooden pins and popsicle sticks. Vintage model aircraft!",
+    "affiliateLink": "https://www.amazon.com/s?k=craft+clothespins"
+  },
+  {
+    "id": 322,
+    "name": "Prayer Flag Making Tibetan",
+    "emoji": "🎏",
+    "shortDesc": "Print mantras on colorful fabric flags for outdoor display. Wind-blessed textiles!",
+    "affiliateLink": "https://www.amazon.com/s?k=prayer+flags"
+  },
+  {
+    "id": 323,
+    "name": "Worry Doll Making Guatemalan",
+    "emoji": "🧚",
+    "shortDesc": "Craft tiny dolls to tell your worries to before sleep. Therapeutic folk art!",
+    "affiliateLink": "https://www.amazon.com/s?k=worry+dolls"
+  },
+  {
+    "id": 324,
+    "name": "Gutter Garden Hydroponics",
+    "emoji": "🌿",
+    "shortDesc": "Grow vegetables in repurposed rain gutters. Vertical space farming!",
+    "affiliateLink": "https://www.amazon.com/s?k=gutter+garden"
+  },
+  {
+    "id": 325,
+    "name": "Tin Whistle Busking Irish",
+    "emoji": "🎶",
+    "shortDesc": "Play Celtic tunes for tips on street corners. Musical begging!",
+    "affiliateLink": "https://www.amazon.com/s?k=tin+whistle+irish"
+  },
+  {
+    "id": 326,
+    "name": "Sand Bottle Art Layering",
+    "emoji": "🏖️",
+    "shortDesc": "Pour colored sand in bottles to create landscape scenes. Permanent desert art!",
+    "affiliateLink": "https://www.amazon.com/s?k=sand+art+bottles"
+  },
+  {
+    "id": 327,
+    "name": "Dreamcatcher Weaving Native",
+    "emoji": "🕸️",
+    "shortDesc": "Weave hoops with spiritual webbing to catch bad dreams. Indigenous craft!",
+    "affiliateLink": "https://www.amazon.com/s?k=dreamcatcher+kit"
+  },
+  {
+    "id": 328,
+    "name": "Potato Battery Science Fair",
+    "emoji": "🥔",
+    "shortDesc": "Generate electricity from tubers and electrodes. Vegetable power!",
+    "affiliateLink": "https://www.amazon.com/s?k=science+electrodes"
+  },
+  {
+    "id": 329,
+    "name": "Corn Husk Doll Crafting",
+    "emoji": "🌽",
+    "shortDesc": "Fashion traditional dolls from dried corn husks. Agricultural folk art!",
+    "affiliateLink": "https://www.amazon.com/s?k=corn+husk"
+  },
+  {
+    "id": 330,
+    "name": "Walnut Shell Boats Racing",
+    "emoji": "⛵",
+    "shortDesc": "Make tiny sailboats from nutshells and race them. Miniature maritime!",
+    "affiliateLink": "https://www.amazon.com/s?k=walnut+shells"
+  },
+  {
+    "id": 331,
+    "name": "Pebble Art Silhouettes",
+    "emoji": "🪨",
+    "shortDesc": "Glue stones into shadow figures and scenes. Rocky illustrations!",
+    "affiliateLink": "https://www.amazon.com/s?k=pebble+art"
+  },
+  {
+    "id": 332,
+    "name": "Finger Labyrinth Tracing",
+    "emoji": "🌀",
+    "shortDesc": "Follow spiral paths with your finger for meditation. Portable walking meditation!",
+    "affiliateLink": "https://www.amazon.com/s?k=finger+labyrinth"
+  },
+  {
+    "id": 333,
+    "name": "Pompom Rug Making",
+    "emoji": "🏠",
+    "shortDesc": "Tie hundreds of yarn balls to mesh backing for fluffy carpets. Soft underfoot!",
+    "affiliateLink": "https://www.amazon.com/s?k=pompom+rug"
+  },
+  {
+    "id": 334,
+    "name": "Tuna Can Alcohol Stoves",
+    "emoji": "🔥",
+    "shortDesc": "Build ultralight camping stoves from recycled cans. Backpacker engineering!",
+    "affiliateLink": "https://www.amazon.com/s?k=alcohol+fuel"
+  },
+  {
+    "id": 335,
+    "name": "Wish Jar Message Collecting",
+    "emoji": "🫙",
+    "shortDesc": "Fill containers with written hopes and dreams. Visual manifestation practice!",
+    "affiliateLink": "https://www.amazon.com/s?k=glass+jar"
+  },
+  {
+    "id": 336,
+    "name": "Latch Hook Rug Weaving",
+    "emoji": "🧶",
+    "shortDesc": "Tie short yarn pieces through canvas to create shaggy textiles. Repetitive textile art!",
+    "affiliateLink": "https://www.amazon.com/s?k=latch+hook+kit"
+  },
+  {
+    "id": 337,
+    "name": "Pallet Wood Furniture Building",
+    "emoji": "🪵",
+    "shortDesc": "Dismantle shipping pallets and build rustic furniture. Industrial upcycling!",
+    "affiliateLink": "https://www.amazon.com/s?k=pallet+tools"
+  },
+  {
+    "id": 338,
+    "name": "Sun Printing Cyanotype",
+    "emoji": "☀️",
+    "shortDesc": "Create blue photographic prints using UV-sensitive paper. Solar photography!",
+    "affiliateLink": "https://www.amazon.com/s?k=cyanotype+paper"
+  },
+  {
+    "id": 339,
+    "name": "Ribbon Bookmark Sewing",
+    "emoji": "📚",
+    "shortDesc": "Craft decorative page markers with ribbon and beads. Elegant reading accessories!",
+    "affiliateLink": "https://www.amazon.com/s?k=ribbon+bookmark"
+  },
+  {
+    "id": 340,
+    "name": "Mason Jar Herb Gardens",
+    "emoji": "🌿",
+    "shortDesc": "Grow fresh herbs in glass containers on windowsills. Kitchen farming!",
+    "affiliateLink": "https://www.amazon.com/s?k=mason+jar+garden"
+  },
+  {
+    "id": 341,
+    "name": "Pinecone Bird Feeders",
+    "emoji": "🐦",
+    "shortDesc": "Coat cones in peanut butter and seeds for wildlife. Natural bird restaurants!",
+    "affiliateLink": "https://www.amazon.com/s?k=bird+seed"
+  },
+  {
+    "id": 342,
+    "name": "Fabric Yo-Yo Flower Making",
+    "emoji": "🌸",
+    "shortDesc": "Gather circles of fabric into rosette shapes. No-sew textile blooms!",
+    "affiliateLink": "https://www.amazon.com/s?k=fabric+yo+yo"
+  },
+  {
+    "id": 343,
+    "name": "Crystal Grid Energy Work",
+    "emoji": "💎",
+    "shortDesc": "Arrange stones in sacred geometric patterns. Metaphysical geometry!",
+    "affiliateLink": "https://www.amazon.com/s?k=crystal+grid"
+  },
+  {
+    "id": 344,
+    "name": "Perler Bead Pixel Art",
+    "emoji": "🎨",
+    "shortDesc": "Arrange plastic beads and iron them into fused designs. Melted pixel art!",
+    "affiliateLink": "https://www.amazon.com/s?k=perler+beads"
+  },
+  {
+    "id": 345,
+    "name": "Twig Star Ornaments",
+    "emoji": "⭐",
+    "shortDesc": "Bind sticks into five-pointed stars for decoration. Natural geometry!",
+    "affiliateLink": "https://www.amazon.com/s?k=craft+twigs"
+  },
+  {
+    "id": 346,
+    "name": "Seashell Wind Chimes",
+    "emoji": "🐚",
+    "shortDesc": "String shells to create ocean-themed hanging music. Coastal soundscapes!",
+    "affiliateLink": "https://www.amazon.com/s?k=seashells+bulk"
+  },
+  {
+    "id": 347,
+    "name": "Ojo de Dios Weaving",
+    "emoji": "👁️",
+    "shortDesc": "Wrap yarn around crossed sticks in diamond patterns. Gods Eye folk art!",
+    "affiliateLink": "https://www.amazon.com/s?k=gods+eye+craft"
+  },
+  {
+    "id": 348,
+    "name": "Lavender Wand Making",
+    "emoji": "💜",
+    "shortDesc": "Weave fresh lavender stems into fragrant keepsakes. Scented textiles!",
+    "affiliateLink": "https://www.amazon.com/s?k=fresh+lavender"
+  },
+  {
+    "id": 349,
+    "name": "Acorn Cap Miniatures",
+    "emoji": "🌰",
+    "shortDesc": "Craft tiny fairy hats and decorations from oak nut tops. Woodland dollhouse!",
+    "affiliateLink": "https://www.amazon.com/s?k=acorn+caps"
+  },
+  {
+    "id": 350,
+    "name": "String Art Nail Geometry",
+    "emoji": "📐",
+    "shortDesc": "Hammer nails in patterns and wrap thread to create geometric designs. Mathematical textiles!",
+    "affiliateLink": "https://www.amazon.com/s?k=string+art+kit"
+  },
+  {
+    "id": 351,
+    "name": "Felt Ball Garland Stringing",
+    "emoji": "🎨",
+    "shortDesc": "Thread colorful wool balls into decorative hanging strings. Festive fiber art!",
+    "affiliateLink": "https://www.amazon.com/s?k=felt+balls"
+  },
+  {
+    "id": 352,
+    "name": "Twig Mobile Hanging Sculpture",
+    "emoji": "🌿",
+    "shortDesc": "Balance branches with hanging objects for kinetic art. Moving nature sculptures!",
+    "affiliateLink": "https://www.amazon.com/s?k=mobile+kit"
+  },
+  {
+    "id": 353,
+    "name": "Milk Jug Igloo Building",
+    "emoji": "🥛",
+    "shortDesc": "Stack hundreds of plastic jugs into dome structures. Recycled architecture!",
+    "affiliateLink": "https://www.amazon.com/s?k=milk+jugs"
+  },
+  {
+    "id": 354,
+    "name": "Seed Mosaic Art Nature",
+    "emoji": "🌻",
+    "shortDesc": "Glue different seeds into pictures based on color and texture. Agricultural art!",
+    "affiliateLink": "https://www.amazon.com/s?k=craft+seeds"
+  },
+  {
+    "id": 355,
+    "name": "Beaded Safety Pin Art",
+    "emoji": "🧷",
+    "shortDesc": "Thread beads onto pins and connect them into bracelets. Punk accessories!",
+    "affiliateLink": "https://www.amazon.com/s?k=safety+pins+bulk"
+  },
+  {
+    "id": 356,
+    "name": "Bark Rubbing Tree Prints",
+    "emoji": "🌳",
+    "shortDesc": "Hold paper against tree trunks and rub with crayons. Natural texture printing!",
+    "affiliateLink": "https://www.amazon.com/s?k=rubbing+crayons"
+  },
+  {
+    "id": 357,
+    "name": "Magnetic Poetry Word Arranging",
+    "emoji": "🧲",
+    "shortDesc": "Compose poems from random magnetic words on fridges. Constrained writing!",
+    "affiliateLink": "https://www.amazon.com/s?k=magnetic+poetry"
+  },
+  {
+    "id": 358,
+    "name": "Rock Painting Kindness Stones",
+    "emoji": "🪨",
+    "shortDesc": "Paint inspirational messages on rocks and hide them. Random act art!",
+    "affiliateLink": "https://www.amazon.com/s?k=acrylic+paint+pens"
+  },
+  {
+    "id": 359,
+    "name": "Twig Pen Natural Crafting",
+    "emoji": "🖊️",
+    "shortDesc": "Hollow out branches and insert ink cartridges. Rustic writing tools!",
+    "affiliateLink": "https://www.amazon.com/s?k=pen+refills"
+  },
+  {
+    "id": 360,
+    "name": "Leaf Skeleton Bleaching",
+    "emoji": "🍃",
+    "shortDesc": "Soak leaves until only delicate veins remain. Transparent botanical art!",
+    "affiliateLink": "https://www.amazon.com/s?k=leaf+skeleton"
+  },
+  {
+    "id": 361,
+    "name": "Paper Bead Jewelry Rolling",
+    "emoji": "📰",
+    "shortDesc": "Roll magazine strips into beads and string them. Recycled accessories!",
+    "affiliateLink": "https://www.amazon.com/s?k=paper+bead+kit"
+  },
+  {
+    "id": 362,
+    "name": "Miniature Zen Garden Raking",
+    "emoji": "🏯",
+    "shortDesc": "Create desktop sand gardens with tiny rakes. Portable meditation!",
+    "affiliateLink": "https://www.amazon.com/s?k=zen+garden"
+  },
+  {
+    "id": 363,
+    "name": "Worry Stone Painting Mandala",
+    "emoji": "🎨",
+    "shortDesc": "Dot paint intricate designs on smooth rocks. Therapeutic rock art!",
+    "affiliateLink": "https://www.amazon.com/s?k=dotting+tools"
+  },
+  {
+    "id": 364,
+    "name": "Twig Frame Picture Holders",
+    "emoji": "🖼️",
+    "shortDesc": "Glue sticks around cardboard to create rustic photo frames. Natural borders!",
+    "affiliateLink": "https://www.amazon.com/s?k=picture+frame"
+  },
+  {
+    "id": 365,
+    "name": "Hypertufa Garden Planters",
+    "emoji": "🪴",
+    "shortDesc": "Mix concrete and peat to create faux-stone containers. Lightweight stone look!",
+    "affiliateLink": "https://www.amazon.com/s?k=hypertufa"
+  },
+  {
+    "id": 366,
+    "name": "Embossed Foil Art Metalwork",
+    "emoji": "✨",
+    "shortDesc": "Press designs into aluminum foil backed with cardboard. Raised metal art!",
+    "affiliateLink": "https://www.amazon.com/s?k=aluminum+foil+sheets"
+  },
+  {
+    "id": 367,
+    "name": "Seed Paper Making Embedded",
+    "emoji": "🌱",
+    "shortDesc": "Blend paper pulp with seeds for plantable cards. Growable stationery!",
+    "affiliateLink": "https://www.amazon.com/s?k=seed+paper"
+  },
+  {
+    "id": 368,
+    "name": "Twig Wreath Seasonal Crafting",
+    "emoji": "🍂",
+    "shortDesc": "Bind branches into circular door decorations. Natural holiday decor!",
+    "affiliateLink": "https://www.amazon.com/s?k=wreath+form"
+  },
+  {
+    "id": 369,
+    "name": "Sand Dollar Art Bleaching",
+    "emoji": "🌊",
+    "shortDesc": "Clean and whiten sea urchin skeletons for display. Beach treasure processing!",
+    "affiliateLink": "https://www.amazon.com/s?k=sand+dollars"
+  },
+  {
+    "id": 370,
+    "name": "Pasta Necklace Dyeing",
+    "emoji": "🍝",
+    "shortDesc": "Color and string dry pasta into jewelry. Edible fashion emergency!",
+    "affiliateLink": "https://www.amazon.com/s?k=pasta+shapes"
+  },
+  {
+    "id": 371,
+    "name": "Pinecone Owl Crafting",
+    "emoji": "🦉",
+    "shortDesc": "Add felt features to pinecones to create woodland creatures. Nature critters!",
+    "affiliateLink": "https://www.amazon.com/s?k=pinecones+bulk"
+  },
+  {
+    "id": 372,
+    "name": "Thaumatrope Spinning Illusions",
+    "emoji": "🎭",
+    "shortDesc": "Create Victorian optical toys with images that merge when spun. Persistence of vision!",
+    "affiliateLink": "https://www.amazon.com/s?k=thaumatrope"
+  },
+  {
+    "id": 373,
+    "name": "Popsicle Stick Explosions",
+    "emoji": "💥",
+    "shortDesc": "Weave sticks under tension and release for chain reactions. Kinetic sculpture!",
+    "affiliateLink": "https://www.amazon.com/s?k=craft+sticks+bulk"
+  },
+  {
+    "id": 374,
+    "name": "Fairy House Miniature Building",
+    "emoji": "🏠",
+    "shortDesc": "Construct tiny dwellings from natural materials. Mythical real estate!",
+    "affiliateLink": "https://www.amazon.com/s?k=fairy+house+kit"
+  },
+  {
+    "id": 375,
+    "name": "Shoebox Dollhouse Crafting",
+    "emoji": "🏡",
+    "shortDesc": "Transform boxes into multi-room miniature homes. Recycled architecture!",
+    "affiliateLink": "https://www.amazon.com/s?k=dollhouse+furniture"
+  },
+  {
+    "id": 376,
+    "name": "Spool Knitting Yarn Tubes",
+    "emoji": "🧶",
+    "shortDesc": "Use wooden spools with nails to create long knitted cords. French knitting!",
+    "affiliateLink": "https://www.amazon.com/s?k=spool+knitter"
+  },
+  {
+    "id": 377,
+    "name": "Worry Doll Crafting Miniature",
+    "emoji": "👥",
+    "shortDesc": "Make tiny people to tell your anxieties to. Therapeutic figurines!",
+    "affiliateLink": "https://www.amazon.com/s?k=doll+making+supplies"
+  },
+  {
+    "id": 378,
+    "name": "Marbled Paper Ink Floating",
+    "emoji": "🎨",
+    "shortDesc": "Float inks on water and transfer swirled patterns to paper. Liquid marbling!",
+    "affiliateLink": "https://www.amazon.com/s?k=marbling+paper"
+  },
+  {
+    "id": 379,
+    "name": "Button Snake Threading",
+    "emoji": "🐍",
+    "shortDesc": "String buttons on shoelaces for toddler fine motor toys. Educational craft!",
+    "affiliateLink": "https://www.amazon.com/s?k=large+buttons"
+  },
+  {
+    "id": 380,
+    "name": "Tin Can Stilts Walking",
+    "emoji": "🥫",
+    "shortDesc": "Attach rope to cans and walk elevated. DIY circus props!",
+    "affiliateLink": "https://www.amazon.com/s?k=large+cans"
+  },
+  {
+    "id": 381,
+    "name": "Felted Soap Making Exfoliating",
+    "emoji": "🧼",
+    "shortDesc": "Wrap bars in wool that felts with use. Self-exfoliating cleansing!",
+    "affiliateLink": "https://www.amazon.com/s?k=felting+wool"
+  },
+  {
+    "id": 382,
+    "name": "Matchstick Puzzle Creating",
+    "emoji": "🧩",
+    "shortDesc": "Design brainteasers using arranged sticks. Combustible logic!",
+    "affiliateLink": "https://www.amazon.com/s?k=matchsticks"
+  },
+  {
+    "id": 383,
+    "name": "Beeswax Wrap Making Reusable",
+    "emoji": "🐝",
+    "shortDesc": "Infuse fabric with wax to create eco-friendly food wraps. Sustainable packaging!",
+    "affiliateLink": "https://www.amazon.com/s?k=beeswax+wraps"
+  },
+  {
+    "id": 384,
+    "name": "Salt Dough Ornament Baking",
+    "emoji": "🧂",
+    "shortDesc": "Sculpt flour and salt mixture into permanent decorations. Edible clay alternative!",
+    "affiliateLink": "https://www.amazon.com/s?k=salt+dough"
+  },
+  {
+    "id": 385,
+    "name": "Leaf Printing Nature Stamping",
+    "emoji": "🍃",
+    "shortDesc": "Paint leaves and press them onto fabric. Botanical printmaking!",
+    "affiliateLink": "https://www.amazon.com/s?k=fabric+paint"
+  },
+  {
+    "id": 386,
+    "name": "Clothespin Picture Holders",
+    "emoji": "📷",
+    "shortDesc": "Decorate pins to create cute photo clips. Functional embellishments!",
+    "affiliateLink": "https://www.amazon.com/s?k=mini+clothespins"
+  },
+  {
+    "id": 387,
+    "name": "Friendship Stone Painting",
+    "emoji": "🪨",
+    "shortDesc": "Decorate rocks with names and give them to friends. Weighted affection!",
+    "affiliateLink": "https://www.amazon.com/s?k=paint+markers"
+  },
+  {
+    "id": 388,
+    "name": "Tin Punch Lantern Making",
+    "emoji": "🕯️",
+    "shortDesc": "Hammer nail holes in cans to create patterned candlelight. Perforated illumination!",
+    "affiliateLink": "https://www.amazon.com/s?k=tin+cans"
+  },
+  {
+    "id": 389,
+    "name": "Cardboard Loom Weaving",
+    "emoji": "🧵",
+    "shortDesc": "Cut notches in cardboard to create simple weaving frames. Budget textiles!",
+    "affiliateLink": "https://www.amazon.com/s?k=weaving+yarn"
+  },
+  {
+    "id": 390,
+    "name": "Nature Journal Sketching",
+    "emoji": "📓",
+    "shortDesc": "Draw observations of plants and animals outdoors. Scientific illustration!",
+    "affiliateLink": "https://www.amazon.com/s?k=nature+journal"
+  },
+  {
+    "id": 391,
+    "name": "Button Art Portraits Creating",
+    "emoji": "🔘",
+    "shortDesc": "Glue colorful buttons to create mosaic pictures. Dimensional art!",
+    "affiliateLink": "https://www.amazon.com/s?k=buttons+assorted"
+  },
+  {
+    "id": 392,
+    "name": "Fingerprint Art Character Making",
+    "emoji": "👆",
+    "shortDesc": "Turn thumbprints into tiny people and creatures. Personal signature art!",
+    "affiliateLink": "https://www.amazon.com/s?k=stamp+pad"
+  },
+  {
+    "id": 393,
+    "name": "Milk Carton Birdhouse Building",
+    "emoji": "🏠",
+    "shortDesc": "Convert drink containers into avian apartments. Recycled nesting boxes!",
+    "affiliateLink": "https://www.amazon.com/s?k=milk+carton"
+  },
+  {
+    "id": 394,
+    "name": "Crayon Rock Melting",
+    "emoji": "🖍️",
+    "shortDesc": "Melt crayons onto hot stones for temporary colorful rocks. Thermal art!",
+    "affiliateLink": "https://www.amazon.com/s?k=crayons+bulk"
+  },
+  {
+    "id": 395,
+    "name": "Straw Weaving Basket Making",
+    "emoji": "🧺",
+    "shortDesc": "Braid dried grass into containers. Agricultural basketry!",
+    "affiliateLink": "https://www.amazon.com/s?k=raffia+straw"
+  },
+  {
+    "id": 396,
+    "name": "Aluminum Can Flowers",
+    "emoji": "🌺",
+    "shortDesc": "Cut and shape drink cans into metal blooms. Industrial florals!",
+    "affiliateLink": "https://www.amazon.com/s?k=aluminum+cans"
+  },
+  {
+    "id": 397,
+    "name": "Ice Lantern Winter Crafting",
+    "emoji": "❄️",
+    "shortDesc": "Freeze water with embedded objects for glowing ice sculptures. Temporary frozen art!",
+    "affiliateLink": "https://www.amazon.com/s?k=ice+lantern"
+  },
+  {
+    "id": 398,
+    "name": "Stick Weaving Frame Looms",
+    "emoji": "🪵",
+    "shortDesc": "Create small weavings on foraged branch frames. Portable textiles!",
+    "affiliateLink": "https://www.amazon.com/s?k=weaving+supplies"
+  },
+  {
+    "id": 399,
+    "name": "Pressed Flower Bookmarks",
+    "emoji": "🌸",
+    "shortDesc": "Laminate dried flowers between plastic for reading markers. Botanical page holders!",
+    "affiliateLink": "https://www.amazon.com/s?k=laminating+sheets"
+  },
+  {
+    "id": 400,
+    "name": "Nature Paintbrush Crafting",
+    "emoji": "🎨",
+    "shortDesc": "Tie pine needles and grass to sticks for organic painting tools. Wild art supplies!",
+    "affiliateLink": "https://www.amazon.com/s?k=natural+brushes"
   }
 ]
